@@ -1,0 +1,27 @@
+# Entorno y credenciales
+.env
+.env.local
+
+# Archivos pesados y comprimidos
+*.rar
+*.zip
+*.7z
+
+# Directorios de salida generados
+Designaciones_*/
+docentes_sin_reporte.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
